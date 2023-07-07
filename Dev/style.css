@@ -12,17 +12,18 @@
 }
 .conteiner-principal .cabeçalho{
     display: flex;
-    justify-content: space-between;
     align-items: center;
+    justify-content: space-between;
 }
 h1{
+    margin-left: 50px;
     color: #fff;
     font-size: 30px;
     font-weight: bold;
 }
 input{
-    border: none;
+    border: transparent;
     border-radius: 20px;
-    width: 36.4;
+    width: 20.0rem;
     height: 3rem;
 }
