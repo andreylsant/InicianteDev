@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.conteiner-principal{
+    display: flex;
+    width: 100%;
+    height: 5.0rem;
+    background-color: rgba(91, 133, 203, 1);
+}
+.conteiner-principal .cabeçalho{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+h1{
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+}
+input{
+    border: none;
+    border-radius: 20px;
+    width: 36.4;
+    height: 3rem;
+}
